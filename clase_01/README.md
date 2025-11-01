@@ -2,3 +2,5 @@
 
 ## Temas
 Conceptos fundamentales de Python, variables, tipos de datos básicos, entrada y salida de datos, y condicionales simples.
+
+[Ejemplo 1](01.py)
