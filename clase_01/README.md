@@ -1,6 +1,6 @@
 # Clase 01 - Fundamentos de Python y Repaso General
 
-## Temas
+## [Temario](../README.md)
 Conceptos fundamentales de Python, variables, tipos de datos básicos, entrada y salida de datos, y condicionales simples.
 
 Python es un lenguaje simple, ideal para principiantes. 
@@ -44,5 +44,9 @@ Python es un lenguaje simple, ideal para principiantes.
 
 **Operadores Lógicos**
 
+---
 
-[Ejemplo 1](01.py)
+- [Ejemplo 1](01.py)
+- [Ejemplo 2](02.py)
+- [Ejemplo 2](03.py)
+
