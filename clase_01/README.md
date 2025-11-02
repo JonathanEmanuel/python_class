@@ -18,4 +18,31 @@ Python es un lenguaje simple, ideal para principiantes.
     print("Edad:", edad)
     print("Altura:", altura)
 ```
+
+**Entrada de datos con input()** 
+- input() siempre devuelve un string.
+- Hay que convertirlo si queremos usarlo como número.
+
+``` py
+    nombre = input("¿Cómo te llamas? ")
+    edad = int(input("¿Cuántos años tenes? "))
+
+    print("Hola", nombre)
+    print("El proximo año vas a tener", edad + 1)
+```
+
+**Condicionales simples con if**
+- Las estructuras condicionales las suamos para que el programa tome decisiones.
+``` py
+    edad = int(input("¿Cuantos años tenes? "))
+
+    if edad > 18:
+        print("Sos mayor de edad")
+    else:
+        print("Sos menor de edad.")
+```
+
+**Operadores Lógicos**
+
+
 [Ejemplo 1](01.py)
